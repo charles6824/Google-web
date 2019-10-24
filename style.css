@@ -74,21 +74,25 @@ body {
     width: 450px;
     line-height: 32px;
     padding: 20px 10px;
+    text-align: center;
   }
   
   .form #form-search {
     padding: 0 8px;
   }
   
-  /*#form-search:hover {
-    border-color: #e4e4e4;
-    padding-top: 0;
-  }*/
-  
   .buttons {
     text-align: center;
     padding-top: 30px;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
+  }
+  .desi{
+      background-color: cornflowerblue;
+      color: #fff;
+      text-decoration: none !important;
+      border-radius: 10px;
+      border: 2px solid #404040;
+      padding: 5px 10px;
   }
   
   /* FOOTER */
